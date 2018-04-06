@@ -31,3 +31,8 @@ This fictitious project is part of a larger plan to reuse templates for multiple
 
 We look forward to seeing what you can do. Remember, although it is a test, there are no specific right or wrong answers that we are looking for - just do the job as best you can. Any questions - create an issue in the panel on the right (requires a Github account).
 
+## Steps to Run
+Code was written using Reactjs. To run the code, either type
+* yarn install, then npm start
+or 
+* npm install, then npm start
